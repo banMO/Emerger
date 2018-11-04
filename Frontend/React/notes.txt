@@ -1,0 +1,38 @@
+COMPONENTS
+    *Like functions
+    *Reusable and composable 
+    *Can mange a private state
+
+REACTIVE UPDATES
+    *React will React
+
+VIRTUAL VIEWS IN MEMORY
+    *Write HTML in JS
+    *It knows as virtual DOM
+    *Tree reconciliation
+
+------------------------------------------------------------
+REACT COMPONENTS
+    *Function Component
+    *Class Component
+
+Props---> es un objeto que contiene todos los valores que se 
+pasaron cuando se proceso el componente
+
+RENDER FUNCTION
+THis is that function that return el JSX of a component
+
+STATE 
+Declarete all that I want
+
+setState method---> it is async y siempre que quiera 
+actualizar un estado usando el valor de estado use otro
+contrato prevState si la actualizacion depende del estado actual.
+-------------------------------------------------------------
+REACT EVENTS
+    *onClick
+    *onClickFunction--->escucha a las funciones del padre
+    *bindFunction--->
+    *onSomething
+    *onChange
+    *onSubmit
